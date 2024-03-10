@@ -1,7 +1,6 @@
 ﻿namespace _hometask_AccessModifiresPart2
 {
-    internal class Program
-    {
+    
         class Program
         {
             static double CalculateAveragePopulation(City[] cityArray)
@@ -69,7 +68,7 @@
             }
         }
     }
-}
+
 
 
 
