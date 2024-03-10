@@ -29,10 +29,10 @@ namespace _hometask_AccessModifiresPart2
                 population = value;
             }
         }
-            public City(string name, int population)
+        public City(string name, int population)
         {
-            this.name = name;
-            this.population = population;
+            Name = name;
+            Population = population;
         }
 
 
